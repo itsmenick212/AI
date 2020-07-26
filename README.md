@@ -1,5 +1,5 @@
 # AI
-Artificial Intelligence class at Columbia University - Spring 2020
+Artificial Intelligence
 
 •	N-puzzle board game: implemented and compared breadth-first, depth-first, A-star search algorithms
 
